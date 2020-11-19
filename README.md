@@ -10,8 +10,8 @@ Criar arquivo dev.js na pasta config com esses dados:<br>
 
 
 module.exports = {<br>
-    APIKEY: 'TU8_Lq4MACI_LspJS0Qr63qpmfa20a6h8-9JjyMlICp-',<br>
-    APIURL: 'https://api.us-south.text-to-speech.watson.cloud.ibm.com/instances/64b89757-7a7f-4d83-9469-67198a4c7bde',<br>
+    APIKEY: '', (sua chave da API IBM-Watson disponível gratuitamente no site https://www.ibm.com/cloud/watson-text-to-speech)<br>
+    APIURL: '', (url disponibilizada pelo site acima no site acima)<br>
     DB_HOST: 'localhost',<br>
     DB_USER: 'root',<br>
     DB_PASS: '',<br>
